@@ -17,7 +17,7 @@
 
 ## ピン配置
 
-<img src="https://github.com/akita11/CH552Xiao/blob/main/CH552Xiao_pin.png" width="240px">
+<img src="https://github.com/akita11/CH552Xiao/blob/main/CH552Xiao_pin.png" width="720px">
 
 
 ## Author
