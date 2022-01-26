@@ -21,6 +21,8 @@
 
 <img src="https://github.com/akita11/CH552Xiao/blob/main/CH552Xiao_Back.png" width="240px">
 
+基板上の"LED"（オレンジ）はP3.0で駆動できます。
+
 
 ## Author
 
