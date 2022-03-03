@@ -24,6 +24,8 @@
 
 基板上の"LED"（オレンジ）はP3.0で駆動できます。
 
+※ピン配置を変更した[CH552Xiao2](https://github.com/akita11/CH552Xiao2)もあわせて参照してください。
+
 
 ## Author
 
